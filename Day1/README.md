@@ -5,7 +5,14 @@
   * Internet Connectivitity
   * Softwares to be installed
     * Google Chrome 54 or higher
+      * Primary browser that we will be using to render our code
+      * Firefox will be secondary browser
     * Good Text Editor (Atom is preferred)
+      * Installation
+      * Adding project folders
+      * Live Preview
+      * Code folding(Auto-completion)
+      * Atom is Built using HTML, CSS & JS
     * Web Server (will be discussed later)
 * Number of students enrolled
   * CR Reddy Engineering College - 3
