@@ -1,0 +1,52 @@
+Most frequently used Tags in HTML5
+-----------------------------------
+
+1. <a> </a> => Used define a hyperlink
+2. <article> </article> => to embed an article in the webpage
+3. <aside> </aside> => seperates certain content from the page content
+4. <audio> </audio>
+5. <b> </b> => bold text
+6. <base>    => gives the base URL
+7. <body> </body>
+8. <br>      => gives a line break
+9. <button> </button>  => to click a button
+
+10. <canvas> </canvas> => to draw
+11. <caption></caption> => table caption
+12. <details></details>
+12. <summary></summary>
+12. <div> </div> => section in a document(block element)
+13. <fieldset></fieldset> => groups elements in a form
+14. <form></form> => to take the user input
+15. <footer> </footer> => footer for a document or a section
+16. <figure> </figure>
+17. <figcaption></figcaption>
+18. <h1></h1>....<h6></h6>
+19. <head></head>
+20. <header></header> => header for a document or section
+21. <hr>
+22. <html></html>
+23. <iframe> </iframe> => inline frame
+24. <img> => to display an image
+25. <input> => input in forms
+26. <keygen> => gives a key-pair generator field
+27. <label></label> => gives a name(label) to input element
+28. <li></li> => list item
+29. <link>
+30. <mark> </mark> => to highlight text
+31. <meta>
+32. <nav> </nav>
+33. <ol></ol>, <ul></ul>
+34. <output> </output> => to display the output
+35. <p></p>
+36. <script></script>
+37. <span></span>
+38. <style></style>
+	<time></time>
+39. <table></table>
+40. <td></td>
+41. <th></th>
+42. <tr></tr>
+43. <title></title>
+44. <u></u>
+45. <video></video>
