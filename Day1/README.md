@@ -70,9 +70,17 @@
   * Client - Browser
     * Takes the URL from the User
     * Contacts the DNS to get the IP
-    * Contacts the corresponding with a Resquest to a Resource
+    * Contacts the corresponding with a Request to a Resource
   * Server
     * hosts content
     * Contains shared resources
     * Always connected to the network
-    * Gets requests from clients and responds back with a resouce
+    * Gets requests from clients and responds back with a resource
+  * Minimum HTML Document
+  * HTML DOM(Document Object Model)
+  * Frequently used tags in HTML5
+  * Line Break => `<br>`
+  * White Space => `&nbsp;`
+  * HTML Links
+  * HTML Images
+  * Relative and Absolute paths for resources
