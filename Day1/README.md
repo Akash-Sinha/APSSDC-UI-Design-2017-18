@@ -23,3 +23,28 @@
   * Sri Prakash Engineering College -
 * Access to resources
   * https://github.com/Akash-Sinha/APSSDC-UI-Design-2017-18
+
+### Concepts
+
+* HTML
+  * Hyper Text Markup Language
+  * Rendered by Web Browsers
+  * Used to structure content on a web page
+  * Many versions - 1, 2, ...4.01, 5
+  * Consists of 'Tags' -> `<tagname>`
+  * An Element is an entire block - `<tag></tag>`
+  * HTML files have the extension `.html`
+  * A HTML file can be opened in a
+    * Text Editor which displays all tags and content
+    * Browser which renders all tags and displays the content in a structured manner
+* Browsers
+  * Types
+    * Chrome - Lastest features, Fast, Secure, Extensions
+    * Firefox - Good features, Secure, Plugins, Takes lot of space, MDN
+    * Edge
+    * Safari
+    * Opera
+* Protocols
+  * 
+* Internet/Domains/DNS/IP
+* Client/Server
