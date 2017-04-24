@@ -63,7 +63,7 @@
   * IP - Internet Protocol
     * General form for IPV4
       * 202.132.1.1
-    * 2^32 internet domains can be created for IPV4
+    * 2^32 internet domains can be created for IPV4 - 4 billion addresses
     * 2^128 internet domains for IPV6
 * Client/Server
   * Resquest/Response model
