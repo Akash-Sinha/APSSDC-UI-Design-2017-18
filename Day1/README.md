@@ -45,6 +45,34 @@
     * Safari
     * Opera
 * Protocols
-  * 
-* Internet/Domains/DNS/IP
+  * http
+  * https
+  * FTP - File transfer Protocols
+  * file
+  * ghost
+  * http/2
+* Internet/URL/Domains/DNS/IP
+  * LAN, WAN..
+  * URL - Uniform Resource Locator
+    * Protocol
+    * Domain
+    * Resource to be fetched
+  * Domains - Top level: .com, .org, .edu
+  * DNS - Domain Name Server
+    * Converts a domain name to an IP
+  * IP - Internet Protocol
+    * General form for IPV4
+      * 202.132.1.1
+    * 2^32 internet domains can be created for IPV4
+    * 2^128 internet domains for IPV6
 * Client/Server
+  * Resquest/Response model
+  * Client - Browser
+    * Takes the URL from the User
+    * Contacts the DNS to get the IP
+    * Contacts the corresponding with a Resquest to a Resource
+  * Server
+    * hosts content
+    * Contains shared resources
+    * Always connected to the network
+    * Gets requests from clients and responds back with a resouce
