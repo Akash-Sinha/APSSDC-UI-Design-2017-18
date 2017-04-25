@@ -30,7 +30,11 @@
   * space - `&nbsp;`
   * copyright - `&copy;`
   * < > - `&lt; &gt;`
+* `<strong>` is to be used rather than `<b>` for important text
+* `<em>` is to be used rather than `<i>` to emphasize text
 * Semantic Tags
+  * Each tag has its own meaning
+  * `<div>`, `<header>`, `<footer>`, `<main>`, `<section>`, `<article>`, `<aside>`, `<nav>`
 * Basic Webpage Design
   * Structuring Semantic Tags
 * CSS Introduction
